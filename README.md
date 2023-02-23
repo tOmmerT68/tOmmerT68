@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tOmmerT68
 - 👀 I’m interested in mobile development and just software development in general
-- 🌱 I’m currently learning Android development at M2mobi
+- 🌱 I’m currently learning Android development at Move
 - 📫 How to reach me: tomjborger@gmail.com
 
 <!---
